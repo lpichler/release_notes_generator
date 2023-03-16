@@ -1,0 +1,176 @@
+Current commit in production: 2768ba40f64d49cbc6c3e569f9c41e1220983849
+Fetching commits...Done
+====
+[2023-03-15] open api spec update - unified style and singular form for create a role
+ - https://github.com/RedHatInsights/insights-rbac/pull/830
+ - QE
+====
+
+====
+[2023-03-09] Add DATABASE_HOST, DATABASE_PORT, API_PATH_PREFIX to rbac_server container 
+ - https://github.com/RedHatInsights/insights-rbac/pull/823
+ - QE
+====
+
+====
+[2023-03-08] Update RBAC to Django 4.0
+ - https://github.com/RedHatInsights/insights-rbac/pull/817
+ - QE
+====
+
+====
+[2023-03-07] response message update to improve readability
+ - https://github.com/RedHatInsights/insights-rbac/pull/820
+ - QE
+====
+
+====
+[2023-03-07] [RHCLOUD-23783] Removing template folder
+ - https://github.com/RedHatInsights/insights-rbac/pull/821
+ - QE
+====
+
+====
+[2023-03-07] [RHCLOUD-23477] Send sync kafka message after group creation
+ - https://github.com/RedHatInsights/insights-rbac/pull/822
+ - QE
+====
+
+====
+[2023-03-07] Change the port back to 8080
+ - https://github.com/RedHatInsights/insights-rbac/pull/825
+ - QE
+====
+
+====
+[2023-03-07] [RHCLOUD-9209] Add distinct clause to query set in access's view
+ - https://github.com/RedHatInsights/insights-rbac/pull/765
+ - QE
+====
+
+====
+[2023-02-22] [RHCLOUD-24180] Add migration to sync database and state
+ - https://github.com/RedHatInsights/insights-rbac/pull/814
+ - QE
+====
+
+====
+[2023-02-22] [RHCLOUD-18703] make lint check consistent with tox config
+ - https://github.com/RedHatInsights/insights-rbac/pull/815
+ - QE
+====
+
+====
+[2023-02-22] Upgrade to Django 3.2.18
+ - https://github.com/RedHatInsights/insights-rbac/pull/816
+ - QE
+====
+
+====
+[2023-02-22] [RHCLOUD-24243] Added 'exclude_username' param into groups endpoint
+ - https://github.com/RedHatInsights/insights-rbac/pull/812
+ - QE
+====
+
+====
+[2023-02-21] [RHCLOUD-24242] Update security vulnerabilities
+ - https://github.com/RedHatInsights/insights-rbac/pull/819
+ - QE
+====
+
+====
+[2023-02-20] Revert "[RHCLOUD-24242] Security vulnerability fixes"
+ - https://github.com/RedHatInsights/insights-rbac/pull/818
+ - QE
+====
+
+====
+[2023-02-20] [RHCLOUD-24242] Security vulnerability fixes
+ - https://github.com/RedHatInsights/insights-rbac/pull/798
+ - QE
+====
+
+====
+[2023-02-17] removed not used labels from readme file
+ - https://github.com/RedHatInsights/insights-rbac/pull/811
+ - QE
+====
+
+====
+[2023-02-17] openapi update - added 'access' property in the RoleOutDynamic section
+ - https://github.com/RedHatInsights/insights-rbac/pull/808
+ - QE
+====
+
+====
+[2023-02-16] pre-commit-config - updated link to flake8 github repo
+ - https://github.com/RedHatInsights/insights-rbac/pull/809
+ - QE
+====
+
+====
+[2023-02-14] Update to Django 3.2.17
+ - https://github.com/RedHatInsights/insights-rbac/pull/805
+ - QE
+====
+
+====
+[2023-02-14] [RHCLOUD-24274] Default the roles ordering by name 
+ - https://github.com/RedHatInsights/insights-rbac/pull/807
+ - QE
+====
+
+====
+[2023-02-14] [RHCLOUD-23915] Add access field into roles endpoint
+ - https://github.com/RedHatInsights/insights-rbac/pull/803
+ - QE
+====
+
+====
+[2023-02-13] [RHCLOUD-24145] Update to python 3.9
+ - https://github.com/RedHatInsights/insights-rbac/pull/806
+ - QE
+====
+
+====
+[2023-02-09] fix typos and docstrings in tests
+ - https://github.com/RedHatInsights/insights-rbac/pull/802
+ - QE
+====
+
+====
+[2023-02-08] [RHCLOUD-23491] Update Django to 3.2
+ - https://github.com/RedHatInsights/insights-rbac/pull/795
+ - QE
+====
+
+====
+[2023-02-08] set black version in the tox.ini
+ - https://github.com/RedHatInsights/insights-rbac/pull/801
+ - QE
+====
+
+====
+[2023-02-07] typo fix in the function docstring
+ - https://github.com/RedHatInsights/insights-rbac/pull/800
+ - QE
+====
+
+====
+[2023-02-01] RHCLOUD-23764: Updating local PostgreSQL version to 14.5
+ - https://github.com/RedHatInsights/insights-rbac/pull/792
+ - QE
+====
+
+====
+[2023-02-01] [RHCLOUD-23571] Transition to ubi8-minimal image & remove s2i scripts
+ - https://github.com/RedHatInsights/insights-rbac/pull/782
+ - QE
+====
+
+====
+[2023-01-25] Readme file update - link to platform docs
+ - https://github.com/RedHatInsights/insights-rbac/pull/794
+ - QE
+====
+

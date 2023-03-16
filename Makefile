@@ -26,7 +26,7 @@ gci:
 	golangci-lint run -E gci --fix
 
 generate:
-	./generate_current_notes
+	make; ./generate_current_notes
 
 
 .PHONY: setup tidy build clean run lint gci generate

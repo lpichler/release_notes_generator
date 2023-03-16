@@ -67,3 +67,11 @@ Fetching commits...Done
 IS_PR_IN_PRODUCTION=830 ACCESS_TOKEN=XXX make run
 ```
 
+```
+./release_notes_generator
+Current commit in production: 2768ba40f64d49cbc6c3e569f9c41e1220983849
+Fetching commits...Done
+Searching for commit 2d677e3d4ec484c6bdb87101afac1446fd91927d to check its presence in production...
+
+NO, PR is NOT in production.
+```
